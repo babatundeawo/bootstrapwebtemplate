@@ -1,0 +1,18 @@
+nav li {
+ display: inline-block;
+ text-decoration: none;
+ padding: 1px;
+}
+.main {
+ margin-top: 10px;
+text-align: justify;
+}
+.banner {
+ background: url(../images/cover\ \(4\).png);
+ background-size: cover;
+ color: rgb(46, 46, 185);
+}
+footer {
+ border-top: 2px solid #d1d1d1;
+ margin-top: 10px;
+}
